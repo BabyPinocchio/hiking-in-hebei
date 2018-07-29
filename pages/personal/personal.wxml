@@ -1,0 +1,16 @@
+<!--pages/personal/personal.wxml-->
+<text class="title">团队风采</text>
+<text class="introduction">合影之河北调研小组</text>
+<image class="pic" src="we.JPG"></image>
+<text class="introduction">王则陈:啦啦啦啦啦我是最计网模式的组长</text>
+<image class="picture" src="wzc.JPG"></image>
+<text class="introduction">吴靖:好看的外表千篇一律，有趣的灵魂万里挑一。大家好，我是有趣的灵魂。</text>
+<image class="picture" src="wj.jpeg"></image>
+<text class="introduction">刘相君:好好活着就行了——与世界交好，随遇而安.</text>
+<image class="picture" src="lxj.JPG"></image>
+<text class="introduction">王梓岩:啦啦啦啦啦我是最咸鱼的巨型大佬</text>
+<image class="picture" src="wzy.JPG"></image>
+<text class="introduction">陈泽远:啦啦啦啦啦我是最帅的程序员</text>
+<image class="picture" src="czy.jpg"></image>
+<text class="introduction">刘钊伟:啦啦啦啦啦我是最厉害的坐神</text>
+<image class="picture" src="lzw.JPG"></image>

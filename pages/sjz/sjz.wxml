@@ -1,0 +1,9 @@
+<!--pages/sjz/sjz.wxml-->
+<text class="sct">石家庄市规划馆</text>
+<image class="planningCenter" src="center.JPG"></image>
+<image class="planningCenter" src="center1.JPG"></image>
+<text class="sct">河北冶金建设集团</text>
+<image class="planningCenter" src="plant1.JPG"></image>
+<image class="planningCenter" src="plant2.JPG"></image>
+<text class="sct">石家庄市以岭药业</text>
+<image class="planningCenter" src="company.JPG"></image>

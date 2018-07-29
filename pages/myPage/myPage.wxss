@@ -1,0 +1,36 @@
+/* pages/myPage/myPage.wxss */
+.title{
+  margin: 20rpx 225rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.shijiazhuang{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding: 2px 3px;
+    border: 0;
+    border-radius: 3px;
+    margin: 10px 20px;
+    background:#72c47e;
+}
+.cangzhou{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding: 2px 3px;
+    border: 0;
+    border-radius: 3px;
+    margin: 10px 20px;
+    background:#2c9696;
+}
+.tangshan{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding: 2px 3px;
+    border: 0;
+    border-radius: 3px;
+    margin: 10px 20px;
+    background:#28628c;
+}

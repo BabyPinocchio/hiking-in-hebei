@@ -1,0 +1,24 @@
+/* pages/personal/personal.wxss */
+.title{
+  display: block;
+  font-size: 50rpx;
+  text-align: center;
+  color:rgb(255, 217, 0);
+}
+
+.introduction{
+  color:rgb(75, 68, 68);
+  font-size: 30rpx;
+}
+
+.pic{
+  margin: 10rpx 75rpx;
+  width: 600rpx;
+  height: 450rpx;  
+}
+
+.picture{
+  margin: 10rpx 75rpx;
+  width: 600rpx;
+  height: 1100rpx;  
+}

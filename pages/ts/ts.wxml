@@ -1,0 +1,11 @@
+<!--pages/ts/ts.wxml-->
+<text class="sct">唐山市规划馆</text>
+<image class="planningCenter" src="center3.JPG"></image>
+<image class="planningCenter" src="center4.JPG"></image>
+<text class="sct">唐山市抗震纪念馆</text>
+<image class="museum" src="museum1.JPG"></image>
+<image class="planningCenter" src="museum2.JPG"></image>
+<text class="sct">唐山市世园会</text>
+<image class="planningCenter" src="park1.JPG"></image>
+<text class="sct">唐山市开滦集团</text>
+<image class="planningCenter" src="company1.JPG"></image>

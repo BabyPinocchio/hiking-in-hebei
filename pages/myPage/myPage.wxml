@@ -1,0 +1,5 @@
+<!--pages/myPage/myPage.wxml-->
+<image class="title" src="logo.png"></image>
+<button class="shijiazhuang" catchtap="gotoSJZ">石家庄</button>
+<button class="cangzhou" catchtap="gotoCZ">沧州</button>
+<button class="tangshan" catchtap="gotoTS">唐山</button>

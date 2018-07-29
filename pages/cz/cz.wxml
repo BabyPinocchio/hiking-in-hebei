@@ -1,0 +1,6 @@
+<!--pages/cz/cz.wxml-->
+<text class="sct">沧州市规划馆</text>
+<image class="planningCenter" src="center2.JPG"></image>
+<text class="sct">沧州市黄骅港</text>
+<image class="planningCenter" src="ship1.JPG"></image>
+<image class="planningCenter" src="ship2.JPG"></image>
