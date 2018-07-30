@@ -3,3 +3,9 @@
 <button class="shijiazhuang" catchtap="gotoSJZ">石家庄</button>
 <button class="cangzhou" catchtap="gotoCZ">沧州</button>
 <button class="tangshan" catchtap="gotoTS">唐山</button>
+<text id="section">
+  从经济，文化，民生角度看经济新常态下河北省产业转型升级——“感知五位一体，观察国情社情”主题实践活动。
+</text>
+<text class="motto">
+  生活从来都是一场华丽的冒险，只是你我缺少勇气。
+</text>

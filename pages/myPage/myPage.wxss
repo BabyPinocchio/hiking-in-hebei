@@ -7,7 +7,8 @@
 .shijiazhuang{
     display: block;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+    color:white;
     padding: 2px 3px;
     border: 0;
     border-radius: 3px;
@@ -17,7 +18,8 @@
 .cangzhou{
     display: block;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+    color:white;
     padding: 2px 3px;
     border: 0;
     border-radius: 3px;
@@ -27,10 +29,21 @@
 .tangshan{
     display: block;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+    color:white;
     padding: 2px 3px;
     border: 0;
     border-radius: 3px;
     margin: 10px 20px;
     background:#28628c;
+}
+#section {
+    margin: 20rpx 40rpx;
+    padding:5rpx; 
+    font-size: 25rpx;
+}
+.motto{
+  font-size: 25rpx;
+  margin: 5rpx 40rpx;
+  padding:10rpx; 
 }

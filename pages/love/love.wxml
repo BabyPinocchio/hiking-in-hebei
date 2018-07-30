@@ -1,2 +1,41 @@
-<!--pages/love/love.wxml-->
-<text>pages/love/love.wxml</text>
+<!-- 我们取到的数据是
+[
+  { <-----我们现在在wx:for里面，这个数组的元素是现在的item
+    "pid":1,
+    "uid":1,
+    "title":"石家庄规划馆", <---我们取item里面的title
+    "image":"http://static.myseu.cn/c56bfb1474fabe6b390fecd5bc6c5777",
+    "content":"在石家庄规划馆中，讲解员为我们热情的讲解。",
+    "time":1532869922623,
+    "user":{
+      "uid":1,
+      "name":"ShellyLiu",
+      "bio":"好好活着就行了——与世界交好，随遇而安。",
+      "avatar":"http://static.myseu.cn/b88bcad3a45177b690849caaaef5d6bd"
+    }
+  }
+] -->
+
+<view class="posts">
+  <view class="post" wx:for="{{ posts }}"> <!--这里wx:for里面传入一个js层数组名称，我们传posts就表示data.posts-->
+    <!-- 刚才职业病忘了加双大括号，微信wxml里面所有的js变量和表达式都要加双大括号 -->
+    <!-- 这里是wx:for的作用域，在for的内部，每一个数组元素自动命名为item，数组下标自动命名为index -->
+    <!-- 首先我们贴上文章的标题 -->
+    <!-- 双大括号是这么用的，就是如果你要放变量，变量外面套双大括号，但是如果只是加字，字外面不加双大括号 -->
+
+    <div class="layout">
+      <image class="avatars" src="{{ item.user.avatar }}"></image>
+      <text class="author">{{ item.user.name }}</text>
+      <text class="time">{{ item.time }}</text>
+    </div>
+    
+    <text class="post-title">{{ item.title }}</text>
+    <!-- <image class="author-avatar" src="{{ item.user.avatar }}"/> -->
+    <!-- 文章的图片 -->
+    <image class="pic" mode="widthFix" src="{{ item.image }}"/>
+    <!-- 文章的内容 -->
+    <text class="content">{{ item.content }}</text>
+    <!-- 时间，但是这里我们暂时只有时间戳，需要在js转换成时间，改天再说这件事 -->
+    <!-- <text class="time"></text> -->
+  </view>
+</view>

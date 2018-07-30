@@ -2,23 +2,46 @@
 .title{
   display: block;
   font-size: 50rpx;
-  text-align: center;
-  color:rgb(255, 217, 0);
+  text-align: left;
+  margin-left: 20rpx;
+  color:#28628c;
+  margin-bottom: 30rpx;
 }
 
 .introduction{
   color:rgb(75, 68, 68);
+  margin-left: 20rpx;
   font-size: 30rpx;
 }
 
 .pic{
-  margin: 10rpx 75rpx;
+  margin-top: 20rpx;
+  margin-bottom: 40rpx;
+  margin-left:75rpx;
+  margin-right:75rpx;
   width: 600rpx;
   height: 450rpx;  
 }
 
 .picture{
+  margin-top: 20rpx;
+  margin-bottom: 40rpx;
+  margin-left:75rpx;
+  margin-right:75rpx;
+  width: 600rpx;
+  height: 1070rpx;  
+}
+.picture2{
+  margin-top: 20rpx;
+  margin-bottom: 40rpx;
+  margin-left:75rpx;
+  margin-right:75rpx;
+  width: 600rpx;
+  height: 900rpx;  
+}
+.picture1{
   margin: 10rpx 75rpx;
   width: 600rpx;
-  height: 1100rpx;  
+  height: 450rpx;  
 }
+

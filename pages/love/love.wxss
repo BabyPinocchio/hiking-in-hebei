@@ -1,1 +1,48 @@
 /* pages/love/love.wxss */
+.post{
+  margin-bottom: 100rpx;
+}
+.layout{
+  margin-bottom: 20rpx;
+}
+.avatars{
+  display:inline-block;
+  width:60rpx;
+  height:60rpx;
+  border-radius:50%;
+  float:left;
+  margin-left: 30rpx;
+  margin-right: 20rpx;
+  vertical-align:middle;
+
+}
+.author{
+  display:inline-block;
+  font-size:35rpx;
+  color:rgb(73, 67, 67);
+  vertical-align:middle;
+}
+.time{
+  margin-top: 10rpx;
+  float: right;
+  font-size:25rpx;
+  color:gray;
+  margin-right: 30rpx;
+}
+.post-title{
+  text-align: left;
+  font-size: 35rpx;
+  margin-top: 24rpx;
+  margin-left: 30rpx;
+  margin-bottom: 35rpx;
+  font-weight:bold;
+}
+.pic{
+  width:750rpx;
+  margin-bottom: 27rpx;
+}
+.content{
+  margin-left: 30rpx;
+  font-size: 30rpx;
+  margin-right: 30rpx;
+}

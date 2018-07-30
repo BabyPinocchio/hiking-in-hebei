@@ -3,6 +3,7 @@
   font-family: Arial, Helvetica, sans-serif;
   color:dimgrey;
   font-size: 30rpx;
+  margin-left: 20rpx;
 }
 .planningCenter{
   margin: 10rpx 75rpx;
