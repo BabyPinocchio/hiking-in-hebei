@@ -16,7 +16,14 @@
 
 .pic{
   margin-top: 20rpx;
-  margin-bottom: 40rpx;
+  margin-left:75rpx;
+  margin-right:75rpx;
+  width: 600rpx;
+  height: 450rpx;  
+}
+.pic1{
+  margin-top: 20rpx;
+  margin-bottom: 80rpx;
   margin-left:75rpx;
   margin-right:75rpx;
   width: 600rpx;

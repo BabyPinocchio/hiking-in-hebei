@@ -2,7 +2,7 @@
 .sct{
   font-family: Arial, Helvetica, sans-serif;
   color:dimgrey;
-  font-size: 30rpx;
+  font-size: 40rpx;
   margin-left: 20rpx;
 }
 .planningCenter{
@@ -11,6 +11,11 @@
   height: 450rpx;  
 }
 .museum{
+  margin: 10rpx 75rpx;
+  width: 600rpx;
+  height: 800rpx;  
+}
+.planningCenter1{
   margin: 10rpx 75rpx;
   width: 600rpx;
   height: 800rpx;  

@@ -1,16 +1,20 @@
 <!--pages/personal/personal.wxml-->
 <text class="title">团队风采</text>
 <text class="introduction">合影之河北调研小组</text>
-<image class="pic" src="we.JPG"></image>
+<image class="pic" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vt8da2dj31400u0wj5.jpg"></image>
+<image class="pic" src="https://ws1.sinaimg.cn/large/0069RVTdly1fu7vtf7vf5j31kw16ob2c.jpg"></image>
+<image class="pic" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vtmmpq5j31kw16o4qr.jpg"></image>
+<image class="pic" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vttn5vvj31kw16oqvc.jpg"></image>
+<image class="pic1" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vu0ncltj31kw16o4qv.jpg"></image>
 <text class="introduction">王则陈: 啦啦啦啦啦我是最计网模式的组长</text>
-<image class="picture" src="wzc.JPG"></image>
+<image class="picture" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vu71lijj30u01hcgrn.jpg"></image>
 <text class="introduction">吴靖: 好看的外表千篇一律，有趣的灵魂万里挑一。大家好，我是有趣的灵魂。</text>
-<image class="picture2" src="wj.jpeg"></image>
+<image class="picture2" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vugqovjj30u019ttcm.jpg"></image>
 <text class="introduction">刘相君: 好好活着就行了——与世界交好，随遇而安。</text>
-<image class="picture" src="lxj.JPG"></image>
+<image class="picture" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vuqixnfj30k00zkju0.jpg"></image>
 <text class="introduction">王梓岩:啦啦啦啦啦我是最咸鱼的巨型大佬</text>
-<image class="picture2" src="wzy.JPG"></image>
+<image class="picture2" src="https://ws1.sinaimg.cn/large/0069RVTdly1fu7vuy6gc8j30u014078p.jpg"></image>
 <text class="introduction">陈泽远: 啦啦啦啦啦我是最帅的程序员</text>
-<image class="picture1" src="czy.jpg"></image>
+<image class="picture1" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vv66bkdj31400u0jxg.jpg"></image>
 <text class="introduction">刘钊伟: 啦啦啦啦啦我是最厉害的坐神</text>
-<image class="picture" src="lzw.JPG"></image>
+<image class="picture" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vvd1srdj30u01hcgrc.jpg"></image>

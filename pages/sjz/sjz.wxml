@@ -1,9 +1,29 @@
 <!--pages/sjz/sjz.wxml-->
 <text class="sct">石家庄市规划馆</text>
-<image class="planningCenter" src="center.JPG"></image>
-<image class="planningCenter" src="center1.JPG"></image>
+<image class="planningCenter" src="https://ws1.sinaimg.cn/large/0069RVTdly1fu7v6ijgzej31kw16oqv6.jpg"></image>
+<image class="planningCenter" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7va46528j31kw16o7wi.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vai4e3cj31kw16ohdu.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vast27xj31kw16o7wi.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vb2cr1mj31kw23vb29.jpg"></image>
+<image class="planningCenter" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vba7x4lj31kw16ou0y.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vbiau92j31kw23v4qq.jpg"></image>
+<image class="planningCenter" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vbpvgk6j31kw16ou0y.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vbzjs8zj31kw16o1ky.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vc6y5roj31kw16o7wi.jpg"></image>
 <text class="sct">河北冶金建设集团</text>
-<image class="planningCenter" src="plant1.JPG"></image>
-<image class="planningCenter" src="plant2.JPG"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vdxm9nsj31kw16ob2a.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7ve68ockj31kw16o7wi.jpg"></image>
+<image class="planningCenter1" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vedcvoej30u0140wjd.jpg"></image>
+<image class="planningCenter1" src="https://ws2.sinaimg.cn/large/0069RVTdly1fu7vekq8gqj30u0140n1v.jpg"></image>
+<image class="planningCenter1" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7ver7racj30u0140aif.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7veys7qtj31400u0wj5.jpg"></image>
 <text class="sct">石家庄市以岭药业</text>
-<image class="planningCenter" src="company.JPG"></image>
+<image class="planningCenter1" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vgemobnj30u01hcqj8.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vgl30g6j31kw16o7wi.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vguahpxj31kw23vx6p.jpg"></image>
+<image class="planningCenter" src="https://ws3.sinaimg.cn/large/0069RVTdly1fu7vh12qswj31kw16o1ky.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vh7tr4ij31kw16o4qq.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vhet89aj31kw16o4qq.jpg"></image>
+<image class="planningCenter" src="https://ws4.sinaimg.cn/large/0069RVTdly1fu7vhpni8jj31kw16ob2a.jpg"></image>
+<image class="planningCenter" src="https://ws1.sinaimg.cn/large/0069RVTdly1fu7vhxfhzlj31kw16ob2c.jpg"></image>
+
